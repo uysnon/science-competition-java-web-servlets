@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.oracle:ojdbc6:11.2.0.3">
+    <archive path="C:/Users/avgor/.m2/repository/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/Users/avgor/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="C:/Users/avgor/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.12">
+    <archive path="C:/Users/avgor/.m2/repository/junit/junit/4.12/junit-4.12.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="C:/Users/avgor/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-all:1.3">
+    <archive path="C:/Users/avgor/.m2/repository/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="C:/Users/avgor/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.6.2">
+    <archive path="C:/Users/avgor/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.2">
+    <archive path="C:/Users/avgor/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.6.2">
+    <archive path="C:/Users/avgor/.m2/repository/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.6.2">
+    <archive path="C:/Users/avgor/.m2/repository/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/avgor/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: taglibs:standard:1.1.2">
+    <archive path="C:/Users/avgor/.m2/repository/taglibs/standard/1.1.2/standard-1.1.2.jar" />
+  </library>
+  <library name="ojdbc6">
+    <archive path="D:/afterschool/RSEU/4 course/8 sem/управление программными проектами/project/science_competition/lib/ojdbc6.jar" />
+  </library>
+  <library name="task-maven">
+    <archive path="D:/afterschool/epam_lab/tasks/maven/tests/alexander-gorkin-maven-exercise/dao/target/task-maven.jar" />
+  </library>
+</eclipse-userlibraries>
+
